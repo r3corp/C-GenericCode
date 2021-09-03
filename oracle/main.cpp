@@ -1,7 +1,7 @@
 #include <iostream>
 //#include <Oracle.h>
-#include <map>
 #include <vector>
+
 using namespace std;
 
 typedef void(*ICONNECT_ERRORPROC)(const char *);
